@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hey 👋, I'm Kirollos Maged</h1>
 <h3 align="center">Cybersecurity Student | Backend Developer | Problem Solver</h3>
 
@@ -120,4 +119,4 @@
 <p align="center">
   ⚡ "Building Secure & Efficient Software Solutions." ⚡
 </p>
-```
+
