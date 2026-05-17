@@ -14,15 +14,20 @@
 
 ---
 
-<img align="right" width="350" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThuYmY2cDd5NXhhNXdkcnVnc2pyb2F3dzllbWtpMmU3Z3JmMjk2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="500"/>
+</p>
+
 
 ## 🚀 About Me
 
 🎓 Computer Science student specialized in **Cyber Security** at Alexandria National University.  
-💻 Passionate about **backend development**, **secure systems**, and solving technical challenges.  
-🔐 Interested in **penetration testing**, **cryptography**, and secure software engineering.  
+💻 Passionate about **Backend Development**, **Secure Systems**, and solving technical challenges.  
+🔐 Interested in **Penetration Testing**, **Cryptography**, and Secure Software Engineering.  
 ⚡ Experienced in building database-driven applications using **Java (JDBC)** and **SQL**.  
 🏆 Ranked **27th** in the Egyptian qualifiers of the **Global Cyber Championship** in my first participation.
+
+
 
 ---
 
@@ -90,7 +95,6 @@ Socket-based notification system using:
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -105,7 +109,6 @@ Socket-based notification system using:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/>
-
 </p>
 
 **Security Tools:** Kali Linux • Wireshark • Burp Suite • Nmap • Ghidra
@@ -138,7 +141,7 @@ Socket-based notification system using:
 
 ## 🏅 Achievements
 
-- 🥇 Ranked **27th** in Egyptian qualifiers of **Global Cyber Championship**
+- 🥇 Ranked **27th** in Egyptian Qualifiers of **Global Cyber Championship**
 - 🎯 Active participant in **Cybersecurity Competitions & CTFs**
 - 🚀 Built multiple academic and personal backend/security projects
 
@@ -147,15 +150,15 @@ Socket-based notification system using:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xBP7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kirollos-maged&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xBP7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirollos-maged&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xBP7&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kirollos-maged&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
