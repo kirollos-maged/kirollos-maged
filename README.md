@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kirollos Maged</h1>
-<h3 align="center">Cybersecurity Student | Backend Developer | Problem Solver</h3>
+<h3 align="center">Cybersecurity Student | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kirollos-maged1">
@@ -14,13 +14,13 @@
 
 ---
 
-<img align="right" width="320" src="[h[ttps://raw.githubusercontent.com/kirom8914/YOUR_REPO/main/hamster.jpg](https://github.com/kirollos-maged/hamster.jpg/blob/main/WhatsApp%20Image%202026-05-17%20at%207.39.10%20PM.jpeg)](https://github.com/kirollos-maged/hamster.jpg)" />
+<img align="right" width="350" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## 🚀 About Me
 
 🎓 Computer Science student specialized in **Cyber Security** at Alexandria National University.  
-💻 Passionate about **Backend Development**, **Secure Systems**, and solving technical challenges.  
-🔐 Interested in **Penetration Testing**, **Cryptography**, and Secure Software Engineering.  
+💻 Passionate about **backend development**, **secure systems**, and solving technical challenges.  
+🔐 Interested in **penetration testing**, **cryptography**, and secure software engineering.  
 ⚡ Experienced in building database-driven applications using **Java (JDBC)** and **SQL**.  
 🏆 Ranked **27th** in the Egyptian qualifiers of the **Global Cyber Championship** in my first participation.
 
@@ -44,23 +44,71 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 🔐 Cryptography Toolkit
+A Python toolkit implementing:
+- AES / DES / 3DES
+- RSA Encryption & Decryption
+- Hashing Algorithms
+- Base64 & URL Encoding/Decoding
+
+### 🏫 School Management System
+Java desktop application built with:
+- Java Swing GUI
+- JDBC Integration
+- SQLite / MySQL
+- CRUD Operations
+
+### 🎮 AI Maze Game
+Python 2D maze game featuring:
+- Pygame
+- Enemy AI Logic
+- Maze Navigation
+- Game Mechanics
+
+### 📡 TCP Notification Server
+Socket-based notification system using:
+- Python Sockets
+- Multi-threading
+- Email Integration
+- TCP Communication
+
+---
+
+## 🧩 Problem Solving
+
+- Solved multiple algorithmic problems across online judges
+- Strong foundation in:
+  - Algorithms
+  - Data Structures
+  - Complexity Analysis
+  - Mathematics
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+
 </p>
+
+**Security Tools:** Kali Linux • Wireshark • Burp Suite • Nmap • Ghidra
 
 ---
 
@@ -88,26 +136,31 @@
 
 ---
 
+## 🏅 Achievements
+
+- 🥇 Ranked **27th** in Egyptian qualifiers of **Global Cyber Championship**
+- 🎯 Active participant in **Cybersecurity Competitions & CTFs**
+- 🚀 Built multiple academic and personal backend/security projects
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirom8914&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xBP7&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirom8914&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xBP7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xBP7&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-## 🌟 Soft Skills
-
-✔ Leadership  
-✔ Teamwork  
-✔ Communication  
-✔ Problem Solving  
-✔ Fast Learning  
-✔ Adaptability  
+💡 **Soft Skills:** Leadership • Teamwork • Communication • Problem Solving • Fast Learning • Adaptability
 
 ---
 
