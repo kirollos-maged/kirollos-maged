@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/kirom8914/YOUR_REPO/main/hamster.jpg" />
+<img align="right" width="320" src="h[ttps://raw.githubusercontent.com/kirom8914/YOUR_REPO/main/hamster.jpg](https://github.com/kirollos-maged/hamster.jpg/blob/main/WhatsApp%20Image%202026-05-17%20at%207.39.10%20PM.jpeg)" />
 
 ## 🚀 About Me
 
