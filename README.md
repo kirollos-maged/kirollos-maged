@@ -8,7 +8,7 @@
   <a href="mailto:kirom8914@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/CGPA-3.30-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CGPA-3.33-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Cybersecurity-Student-red?style=flat-square"/>
 </p>
 
