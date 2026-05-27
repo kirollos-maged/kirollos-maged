@@ -36,7 +36,7 @@ Cybersecurity Student | Full Stack Developer | Secure Systems Builder
 🔐 Interested in Penetration Testing, Cryptography, Reverse Engineering  
 ⚙️ Experienced in Java (Swing, JDBC), Python, and SQL systems  
 🏆 Ranked 27th in Global Cyber Championship qualifiers (Egypt)
-
+🏆 Ranked top 90 on Crowd Security
 ---
 
 ## 📌 Featured Projects
