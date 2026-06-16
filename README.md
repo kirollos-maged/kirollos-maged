@@ -43,47 +43,42 @@
 ---
 
 ## ⚔️ Arsenal (Featured Projects)
-
-### 🔐 Cryptography Toolkit
-> *Offensive Cryptanalysis & Encryption Suite*
-
-Python toolkit implementing:
-- AES / DES / 3DES encryption
-- RSA encryption & decryption
-- Hashing algorithms
-- Encoding utilities (Base64, URL encoding)
-
----
-
-### 🏫 School Management System
-> *Secure Enterprise Application*
-
-Java desktop application:
-- Swing GUI
-- JDBC integration
-- CRUD operations
-- SQLite / MySQL support
-
----
-
-### 🎮 AI Maze Game
-> *Adversarial AI Simulation Engine*
-
-2D Python game:
-- Pygame engine
-- Enemy AI behavior
-- Maze navigation logic
-
----
-
-### 📡 TCP Notification Server
-> *C2-Style Network Infrastructure*
-
-Network system using:
-- Python sockets
-- Multi-threading
-- Email notifications
-- TCP communication
+<table align="center" style="border-collapse: collapse; width: 95%; background-color: #0D1117; border: 2px solid #FF0000;">
+  <thead>
+    <tr style="background-color: #8B0000;">
+      <th align="center" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace; font-size: 15px;">🔴 Arsenal</th>
+      <th align="center" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace; font-size: 15px;">📋 Mission Profile</th>
+      <th align="center" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace; font-size: 15px;">🛠️ Weapon Systems</th>
+      <th align="center" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace; font-size: 15px;">⚡ Capabilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #FF4444; font-weight: bold; font-family: monospace;">🔐 Cryptography Toolkit</td>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #AAAAAA; font-style: italic;">Offensive Cryptanalysis & Encryption Suite</td>
+      <td align="center" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace;">Python</td>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace; font-size: 13px;">• AES / DES / 3DES Encryption<br>• RSA Encryption & Decryption<br>• Hashing Algorithms<br>• Base64 / URL Encoding</td>
+    </tr>
+    <tr style="background-color: #161B22;">
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #FF4444; font-weight: bold; font-family: monospace;">🏫 School Management System</td>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #AAAAAA; font-style: italic;">Secure Enterprise Application</td>
+      <td align="center" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace;">Java<br>Swing<br>JDBC<br>SQLite / MySQL</td>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace; font-size: 13px;">• Swing GUI<br>• JDBC Integration<br>• CRUD Operations<br>• Database Support</td>
+    </tr>
+    <tr>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #FF4444; font-weight: bold; font-family: monospace;">🎮 AI Maze Game</td>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #AAAAAA; font-style: italic;">Adversarial AI Simulation Engine</td>
+      <td align="center" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace;">Python<br>Pygame</td>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace; font-size: 13px;">• Pygame Engine<br>• Enemy AI Behavior<br>• Maze Navigation Logic</td>
+    </tr>
+    <tr style="background-color: #161B22;">
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #FF4444; font-weight: bold; font-family: monospace;">📡 TCP Notification Server</td>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #AAAAAA; font-style: italic;">C2-Style Network Infrastructure</td>
+      <td align="center" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace;">Python<br>Sockets</td>
+      <td align="left" style="padding: 14px; border: 1px solid #FF0000; color: #FFFFFF; font-family: monospace; font-size: 13px;">• Multi-threading<br>• Email Notifications<br>• TCP Communication<br>• Python Sockets</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
