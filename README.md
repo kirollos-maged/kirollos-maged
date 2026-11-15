@@ -42,13 +42,13 @@
 | [Car Rental Management System](https://github.com/kirollos-maged/Car-Rental) | Web application for managing cars, reservations, invoices, and staff/customer workflows. | PHP, MySQL, HTML, CSS, JavaScript |
 | [CN Email Client](https://github.com/kirollos-maged/CN-EmailClient) | Desktop email client with SMTP/IMAP operations and TCP notifications. | Python, Tkinter, SMTP, IMAP, TCP sockets |
 | [Cryptographic Chat](https://github.com/kirollos-maged/Cryptographic-Chat) | Browser chat and cryptography demonstration with a WebSocket relay and interactive transforms. For learning only; its README documents security limitations, so it is not suitable for protecting sensitive conversations. | Python, JavaScript, WebSockets |
-| [LunarSight](https://github.com/kirollos-maged/LunarSight) | Tool for comparing lunar locations and mission windows using NASA and JPL data sources. | TypeScript |
+| [LunarSight](https://github.com/kirollos-maged/LunarSight) | Tool for comparing lunar locations and mission windows using NASA and JPL data sources. | TypeScript, React, Vite, Node.js, Express, Three.js, Recharts, Lucide React, Astronomy Engine, Zod, Playwright |
 | [No Way Out](https://github.com/kirollos-maged/No-Way-Out) | Maze survival game with zombie pathfinding strategies and a level editor. | Python, Pygame |
 | [Quantum Key Distribution Simulation](https://github.com/kirollos-maged/Quantum-Hackathon) | Educational classical simulation of selected BB84 and E91 protocol concepts; it does not provide quantum or QKD-grade security. | Python |
-| Cryptography Toolkit | Encryption, hashing, and encoding examples, including AES, DES, 3DES, RSA, Base64, and URL encoding. | Python |
-| School Management System | Desktop school-management prototype with a GUI and database-backed CRUD operations. | Java, Swing, JDBC, SQLite/MySQL |
-| AI Maze Game | Maze game featuring enemy behavior and navigation logic. | Python, Pygame |
-| TCP Notification Server | TCP-based notification project demonstrating multithreading, email notifications, and socket communication. | Python, sockets |
+| [Cryptography Toolkit](https://github.com/kirollos-maged/Cryptographic-Chat) | Encryption, hashing, and encoding examples, including AES, DES, 3DES, RSA, Base64, and URL encoding. | Python |
+| [School Management System](https://github.com/kirollos-maged/School-Management-) | Desktop school-management prototype with a GUI and database-backed CRUD operations. | Java, Swing, JDBC, SQLite/MySQL |
+| [AI Maze Game](https://github.com/kirollos-maged/No-Way-Out) | Maze game featuring enemy behavior and navigation logic. | Python, Pygame |
+| [TCP Notification Server](https://github.com/kirollos-maged/CN-EmailClient) | TCP-based notification project demonstrating multithreading, email notifications, and socket communication. | Python, sockets |
 
 ## Technical Skills
 
